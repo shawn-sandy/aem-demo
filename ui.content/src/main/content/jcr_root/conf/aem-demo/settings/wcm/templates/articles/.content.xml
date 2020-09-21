@@ -2,11 +2,11 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
-        cq:lastModified="{Date}2020-09-20T21:21:16.377-04:00"
+        cq:lastModified="{Date}2020-09-20T22:05:05.001-04:00"
         cq:lastModifiedBy="admin"
         cq:templateType="/conf/aem-demo/settings/wcm/template-types/empty-page"
-        jcr:description="Template for collection of news, articles, content, etc..."
+        jcr:description="Template for lists, collections of news, articles, content, etc..."
         jcr:primaryType="cq:PageContent"
-        jcr:title="Articles"
+        jcr:title="Articles List"
         status="enabled"/>
 </jcr:root>
